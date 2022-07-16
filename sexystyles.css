@@ -4,8 +4,9 @@
 }
 
 body {
-    font-family: 'Comic Sans MS', 'Chalkboard', sans-serif
+  font-family: "Comic Sans MS", "Chalkboard", sans-serif
 }
+
 .selector {
     display: inline-block;
     padding: 10px
